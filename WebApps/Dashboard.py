@@ -8,7 +8,7 @@ import seaborn as sns
 from sklearn.tree import plot_tree
 
 # Set the page title and icon
-st.set_page_config(page_title='Monkeypox Risk Level)
+st.set_page_config(page_title='Monkeypox Risk Level')
 
 # Memuat model yang telah disimpan
 model = joblib.load("WebApps/decision_tree_model.pkl")
