@@ -8,7 +8,7 @@ import seaborn as sns
 from sklearn.tree import plot_tree
 
 # Memuat model yang telah disimpan
-model = joblib.load("Source\WebApps\decision_tree_model.pkl")
+model = joblib.load("WebApps/decision_tree_model.pkl")
 
 # Memuat data yang digunakan untuk pelatihan
 df = pd.read_csv('Source\Data\Monkey_Pox_Cases_Worldwide_Predict.csv')
