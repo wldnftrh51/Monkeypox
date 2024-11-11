@@ -2,17 +2,10 @@ Monkeypox Risk Identification Project
 
 Fitur Utama
 Identifikasi Negara Terdampak: Menampilkan daftar negara yang tercatat memiliki kasus Monkeypox.
-Analisis Prediksi Risiko tiap Negara: Menampilkan prediksi kasus Monkeypox.
+Analisis Tingkat Prediksi Risiko : Menampilkan prediksi kasus Monkeypox.
 
-Cara Instalasi
-git clone https://github.com/username/monkeypox-risk-identification.git
-
-bash
-pip install -r requirements.txt
-
-bash
-python Dashboard.py
-Akses Aplikasi Setelah aplikasi berjalan, buka browser dan akses aplikasi di http://127.0.0.1:5000.
+Demo Aplikasi
+https://monkeypox-lrhgm37rjiic6wstlqp57p.streamlit.app/
 
 Kontak
 - Wildan Hasanah Fitrah
