@@ -1,0 +1,130 @@
+Country,Confirmed_Cases,Suspected_Cases,Hospitalized,Travel_History_Yes,Travel_History_No,Risk_Level,Predicted_Risk
+England,3412.0,0.0,5.0,2.0,7.0,High,High
+Portugal,908.0,0.0,0.0,0.0,34.0,High,High
+Spain,7083.0,0.0,13.0,2.0,0.0,High,High
+United States,24403.0,0.0,4.0,41.0,11.0,High,High
+Canada,1388.0,12.0,1.0,5.0,0.0,High,Low
+Sweden,186.0,0.0,0.0,0.0,0.0,High,Low
+Italy,837.0,0.0,18.0,19.0,4.0,High,High
+France,3934.0,0.0,1.0,2.0,1.0,High,High
+Belgium,757.0,0.0,2.0,1.0,0.0,High,High
+Australia,132.0,0.0,2.0,9.0,0.0,High,High
+Germany,3590.0,0.0,18.0,19.0,16.0,High,High
+Netherlands,1221.0,0.0,0.0,1.0,0.0,High,Low
+Israel,250.0,0.0,3.0,5.0,0.0,High,High
+Switzerland,503.0,0.0,0.0,3.0,0.0,High,High
+Greece,72.0,0.0,2.0,2.0,0.0,High,High
+Austria,304.0,0.0,2.0,1.0,0.0,High,High
+Argentina,326.0,0.0,0.0,11.0,1.0,High,High
+Denmark,183.0,0.0,0.0,3.0,1.0,High,High
+Morocco,3.0,0.0,0.0,1.0,0.0,Low,Low
+Slovenia,46.0,0.0,0.0,2.0,0.0,High,Low
+Scotland,93.0,0.0,1.0,1.0,0.0,High,Low
+Czech Republic,66.0,0.0,1.0,6.0,0.0,High,High
+United Arab Emirates,16.0,0.0,0.0,1.0,0.0,High,Low
+Finland,33.0,0.0,0.0,3.0,0.0,High,High
+Wales,46.0,0.0,0.0,0.0,0.0,High,Low
+Northern Ireland,34.0,0.0,0.0,0.0,0.0,High,Low
+Sudan,6.0,1.0,0.0,0.0,0.0,Low,Low
+Bolivia,155.0,0.0,5.0,2.0,1.0,High,High
+Iran,1.0,3.0,0.0,0.0,0.0,Low,Low
+Ecuador,93.0,1.0,2.0,1.0,0.0,High,High
+Malta,33.0,0.0,0.0,1.0,0.0,High,Low
+Ireland,178.0,0.0,0.0,0.0,0.0,High,Low
+Mexico,1367.0,0.0,0.0,3.0,0.0,High,High
+Pakistan,0.0,1.0,1.0,0.0,0.0,Low,Low
+French Guiana,0.0,0.0,0.0,0.0,0.0,Low,Low
+Thailand,8.0,0.0,4.0,5.0,0.0,High,High
+Peru,2251.0,0.0,2.0,2.0,0.0,High,High
+Brazil,7300.0,0.0,4.0,20.0,4.0,High,High
+Malaysia,0.0,0.0,0.0,0.0,0.0,Low,Low
+Hungary,77.0,0.0,0.0,0.0,0.0,High,Low
+Norway,90.0,0.0,0.0,3.0,0.0,High,High
+Paraguay,1.0,0.0,0.0,2.0,0.0,Low,Low
+Costa Rica,4.0,2.0,1.0,4.0,0.0,Low,Low
+Gibraltar,6.0,0.0,1.0,0.0,0.0,Low,Low
+Mauritius,0.0,0.0,0.0,2.0,1.0,Low,Low
+Haiti,0.0,0.0,0.0,0.0,0.0,Low,Low
+Uruguay,6.0,0.0,0.0,5.0,0.0,Low,Low
+Latvia,5.0,0.0,0.0,1.0,0.0,Low,Low
+Cayman Islands,0.0,1.0,0.0,0.0,0.0,Low,Low
+Kosovo,0.0,0.0,1.0,0.0,0.0,Low,Low
+Turkey,11.0,0.0,0.0,0.0,0.0,High,Low
+Bahamas,2.0,0.0,0.0,1.0,0.0,Low,Low
+Ghana,84.0,317.0,1.0,0.0,0.0,High,High
+India,12.0,0.0,4.0,4.0,1.0,High,High
+Iceland,12.0,0.0,0.0,1.0,0.0,High,Low
+Poland,173.0,0.0,1.0,0.0,0.0,High,Low
+Bangladesh,0.0,0.0,0.0,0.0,0.0,Low,Low
+Uganda,0.0,6.0,0.0,0.0,0.0,Low,Low
+Cambodia,0.0,0.0,0.0,0.0,0.0,Low,Low
+Malawi,0.0,0.0,0.0,0.0,0.0,Low,Low
+Venezuela,5.0,0.0,0.0,3.0,0.0,Low,High
+Romania,39.0,0.0,7.0,0.0,0.0,High,High
+Georgia,2.0,0.0,0.0,0.0,0.0,Low,Low
+Slovakia,14.0,0.0,2.0,3.0,0.0,High,High
+Luxembourg,55.0,0.0,0.0,0.0,0.0,High,Low
+Nepal,0.0,0.0,1.0,1.0,0.0,Low,Low
+Chile,783.0,2.0,2.0,2.0,0.0,High,High
+Serbia,40.0,0.0,0.0,0.0,0.0,High,Low
+Lebanon,11.0,0.0,0.0,4.0,0.0,High,High
+South Korea,2.0,0.0,2.0,1.0,0.0,Low,High
+Singapore,19.0,0.0,8.0,4.0,0.0,High,High
+South Africa,5.0,0.0,0.0,3.0,2.0,Low,Low
+Taiwan,3.0,0.0,1.0,3.0,0.0,Low,Low
+Colombia,1653.0,0.0,0.0,3.0,0.0,High,High
+Croatia,29.0,0.0,0.0,1.0,0.0,High,Low
+Bulgaria,6.0,0.0,1.0,3.0,0.0,Low,Low
+Somalia,0.0,3.0,3.0,1.0,0.0,Low,Low
+Zambia,0.0,1.0,0.0,1.0,0.0,Low,Low
+Fiji,0.0,0.0,0.0,0.0,0.0,Low,Low
+Benin,3.0,0.0,0.0,2.0,1.0,Low,Low
+Estonia,11.0,0.0,0.0,1.0,0.0,High,Low
+Puerto Rico,173.0,0.0,0.0,6.0,0.0,High,High
+Panama,13.0,0.0,0.0,3.0,0.0,High,High
+Dominican Republic,31.0,1.0,5.0,1.0,0.0,High,High
+Jamaica,13.0,0.0,0.0,2.0,4.0,High,Low
+New Zealand,5.0,0.0,0.0,4.0,0.0,Low,High
+Russia,2.0,0.0,1.0,2.0,0.0,Low,Low
+Bosnia And Herzegovina,3.0,0.0,0.0,0.0,0.0,Low,Low
+Saudi Arabia,8.0,0.0,1.0,3.0,0.0,High,Low
+Martinique,7.0,0.0,0.0,1.0,0.0,High,Low
+Barbados,1.0,0.0,0.0,0.0,0.0,Low,Low
+Qatar,5.0,0.0,1.0,0.0,0.0,Low,Low
+Bermuda,1.0,0.0,0.0,0.0,0.0,Low,Low
+Japan,4.0,0.0,4.0,3.0,0.0,Low,High
+Guadeloupe,1.0,0.0,0.0,1.0,0.0,Low,Low
+Andorra,4.0,0.0,0.0,0.0,0.0,Low,Low
+New Caledonia,1.0,0.0,0.0,0.0,0.0,Low,Low
+China,1.0,0.0,0.0,1.0,0.0,Low,Low
+Philippines,4.0,0.0,1.0,3.0,1.0,Low,Low
+Montenegro,2.0,0.0,0.0,0.0,0.0,Low,Low
+Cyprus,5.0,0.0,3.0,2.0,0.0,Low,High
+Lithuania,5.0,0.0,0.0,0.0,0.0,Low,Low
+Guatemala,15.0,0.0,0.0,1.0,0.0,High,Low
+Saint Martin (French part),1.0,0.0,0.0,0.0,0.0,Low,Low
+Greenland,2.0,0.0,0.0,0.0,0.0,Low,Low
+Moldova,2.0,0.0,1.0,0.0,0.0,Low,Low
+Honduras,6.0,0.0,0.0,0.0,0.0,Low,Low
+Monaco,3.0,0.0,0.0,0.0,0.0,Low,Low
+Indonesia,1.0,0.0,0.0,1.0,0.0,Low,Low
+Curaçao,3.0,0.0,0.0,1.0,0.0,Low,Low
+Aruba,3.0,0.0,0.0,0.0,0.0,Low,Low
+Cuba,2.0,0.0,2.0,2.0,0.0,Low,High
+Guyana,2.0,0.0,2.0,0.0,0.0,Low,Low
+El Salvador,4.0,0.0,0.0,0.0,0.0,Low,Low
+Belize,0.0,0.0,0.0,0.0,0.0,Low,Low
+Hong Kong,1.0,0.0,1.0,1.0,0.0,Low,Low
+South Sudan,2.0,0.0,0.0,0.0,0.0,Low,Low
+Egypt,1.0,0.0,1.0,0.0,0.0,Low,Low
+Jordan,1.0,0.0,0.0,1.0,0.0,Low,Low
+Guam,1.0,0.0,0.0,1.0,0.0,Low,Low
+Ukraine,2.0,0.0,1.0,0.0,1.0,Low,Low
+Bahrain,1.0,0.0,0.0,1.0,0.0,Low,Low
+Nigeria,277.0,427.0,0.0,0.0,0.0,High,High
+Democratic Republic Of The Congo,195.0,2852.0,0.0,0.0,0.0,High,High
+Central African Republic,8.0,9.0,0.0,0.0,0.0,High,Low
+Republic of Congo,3.0,5.0,0.0,0.0,0.0,Low,Low
+Cameroon,7.0,27.0,0.0,0.0,0.0,High,High
+Liberia,2.0,0.0,0.0,0.0,0.0,Low,Low
+Sierra Leone,0.0,2.0,0.0,0.0,0.0,Low,Low
