@@ -1,4 +1,4 @@
-*Monkeypox Risk Identification Project*
+# **Monkeypox Risk Identification Project**
 
 Fitur Utama
 Identifikasi Negara Terdampak: Menampilkan daftar negara yang tercatat memiliki kasus Monkeypox.
