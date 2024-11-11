@@ -11,7 +11,7 @@ from sklearn.tree import plot_tree
 model = joblib.load("WebApps/decision_tree_model.pkl")
 
 # Memuat data yang digunakan untuk pelatihan
-df = pd.read_csv('Source\Data\Monkey_Pox_Cases_Worldwide_Predict.csv')
+df = pd.read_csv('Data/Monkey_Pox_Cases_Worldwide_Predict.csv')
 df = df.dropna()  # Menghapus baris dengan nilai NaN
 
 # Menentukan level risiko berdasarkan median
